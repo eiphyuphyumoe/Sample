@@ -10,7 +10,7 @@ Italic --- *This is italic*
 
 Bold Italic --- ***This is Bold & Italic.***
 
-[AMAZON] (www.google.com)
+[AMAZON](www.amazon.com)
 
 ```python
 print("Hello World")
